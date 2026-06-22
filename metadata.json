@@ -1,0 +1,6 @@
+{
+  "name": "Gyanmanjari Career Institute",
+  "description": "Transforming learning experiences for children through educational excellence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
